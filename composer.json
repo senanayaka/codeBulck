@@ -1,0 +1,12 @@
+{
+    "name": "parakrama/oop2",
+    "license": "mit",
+    "require": {},
+    "autoload" : {
+
+        "psr-4" : {
+            "lib\\" : "src"
+        }
+
+    }
+}
