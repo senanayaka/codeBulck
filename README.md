@@ -1,7 +1,8 @@
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
 # call back function 
-
-
-
             function getCount(arg1, arg2, callback) {
                 // this generates a random number between
                 // arg1 and arg2
@@ -22,12 +23,13 @@
 
 
 
-
+---------------------------------------------------------------------------------------------------------------------------
 
 
  cat laravel-2018-02-26.log|grep "Restart device success"|grep b0qf1zaec8ddds5576e|wc -l
  
- 
+ ---------------------------------------------------------------------------------------------------------------------------
+
  MAMP HEADACHE 
 Stop MAMP server.
 Then go in following folder:
@@ -37,3 +39,6 @@ In this folder, please remove all direct files except folders. This means that y
 
 Restart MAMP server.
  
+ 
+ ---------------------------------------------------------------------------------------------------------------------------
+
