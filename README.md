@@ -19,3 +19,21 @@
                 console.log("3 " );
                 console.log("callback called! " + num);
             });
+
+
+
+
+
+
+ cat laravel-2018-02-26.log|grep "Restart device success"|grep b0qf1zaec8ddds5576e|wc -l
+ 
+ 
+ MAMP HEADACHE 
+Stop MAMP server.
+Then go in following folder:
+Applications/MAMP/db/mysql56/
+
+In this folder, please remove all direct files except folders. This means that you have to remove only auto.cnf, ibdata, ib_logfile, not any folders.
+
+Restart MAMP server.
+ 
